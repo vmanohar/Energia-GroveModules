@@ -5,8 +5,8 @@
  * Connect a button module, such as COM22242P, to J17(D) on the Grove Base BossterPack 
  
  
- * Note: Ported MSP-EXP430F5529LP, MSP-EXP432P401R, TM4C123 (Tiva C)
-   for Seeed Studios Grove ecosystem by Cameron P. LaFollette
+ * Note: Ported MSP-EXP430F5529LP, MSP-EXP432P401R, TM4C123 (Tiva C),
+   and cc3200 for Seeed Studios Grove ecosystem by Cameron P. LaFollette
  
  This example code is in the public domain.
  
