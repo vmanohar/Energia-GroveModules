@@ -10,12 +10,15 @@
  
  This example code is in the public domain.
  
+ ***IMPORTANT*** If using cc3200 LaunchPad, place a jumper wire from 
+ Boosterpack pin 31 to 36, and change buttonPin to 31 below
+ 
 */
 
 // constants won't change. They're used here to 
 // set pin numbers:
-const int buttonPin = 36;     // the number of the pushbutton pin
-const int ledPin =  RED_LED;      // the number of the LED pin
+const int buttonPin = 31;     // the number of the pushbutton pin, change to 31 for cc3200
+const int ledPin =  GREEN_LED;      // the number of the LED pin
 
 // variables will change:
 int buttonState = 0;         // variable for reading the pushbutton status
